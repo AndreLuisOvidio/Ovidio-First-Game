@@ -1,3 +1,4 @@
+import Sprite from './Sprite.js';
 window.onload = function (){
     const LEFT = 37, UP = 38, RIGHT = 39, DOWN = 40;
 
